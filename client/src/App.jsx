@@ -10,7 +10,7 @@ import Comments from './pages/admin/Comments'
 import Login from './components/admin/Login'
 import 'quill/dist/quill.snow.css'
 import {Toaster} from 'react-hot-toast'
-import { useAppContext } from './Context/AppContext'
+import { useAppContext } from './context/AppContext'
 
 const App = () => {
 
